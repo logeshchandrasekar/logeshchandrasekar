@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hey, I'm Logesh >_<<br>Welcome to my profile ❤️
 
+Check out my portfolio in my profile ^_~
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinsmoke_loki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/logesh-chandrasekar08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imlogesh04@gmail.com) 

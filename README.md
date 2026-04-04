@@ -2,7 +2,7 @@
 Hey, I'm Logesh >_<<br>Welcome to my profile ❤️<br><br>Check out my portfolio, link in bio ^_^<br><br>- B.E CSE<br>- Python Developer<br>- Looking for an hands on experience on projects, solving real time problems<br>- Eager to learn new things and upgrade my skills<br>- Currently mastering web development
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LogeshChandrasekar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LogeshwarChandrasekar) 
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imlogesh04@gmail.com) 
 

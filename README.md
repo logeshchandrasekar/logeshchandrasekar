@@ -11,8 +11,8 @@ Hey, I'm Logesh 😁<br>Welcome to my profile ❤️<br><br>Check out my portfol
 
 ### Backend, frameworks & libraries:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -32,9 +32,9 @@ Hey, I'm Logesh 😁<br>Welcome to my profile ❤️<br><br>Check out my portfol
 ![](https://streak-stats.demolab.com/?user=logeshchandrasekar&theme=dark&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=logeshchandrasekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logesh-chandrasekar08/)  <-- Checkout my linkedin profile 🎓
+Checkout my linkedin profile 🎓 --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logesh-chandrasekar08/)
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imlogesh04@gmail.com)  <-- Drop a message here ✉️
+Drop a message here ✉️ --> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imlogesh04@gmail.com)
 
 # Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

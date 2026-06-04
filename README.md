@@ -29,7 +29,7 @@ Hey, I'm Logesh 😁<br>Welcome to my profile ❤️<br><br>Check out my portfol
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # GitHub Stats:
-![](https://streak-stats.demolab.com/?user=logeshchandrasekar&theme=dark&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=logeshchandrasekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=logeshchandrasekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Socials:
 Checkout my linkedin profile 🎓 --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logesh-chandrasekar08/)

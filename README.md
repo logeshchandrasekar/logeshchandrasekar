@@ -31,7 +31,7 @@ Hey, I'm Logesh 😁<br>Welcome to my profile ❤️<br><br>Check out my portfol
 # Socials:
 Checkout my linkedin profile 🎓 --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logesh-chandrasekar08/)
 
-Drop a message here ✉️ --> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imlogesh04@gmail.com)
+Drop a message here ✉️ --> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:logeshwarchandrasekar@gmail.com)
 
 # Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
